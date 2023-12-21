@@ -9,7 +9,7 @@ import HeaderComponent from "@/Vues/components/HeaderComponent.vue";
 
     <main>
       <section class="banner">
-        <img alt="Banner Image" src="../../assets/contact.png" />
+        <img alt="Banner Image" src="/contact.png" />
       </section>
       <div class="contact-container">
         <h1>

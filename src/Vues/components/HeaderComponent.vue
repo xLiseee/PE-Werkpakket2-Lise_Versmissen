@@ -4,7 +4,7 @@
       <ul class="nav-links">
         <li>
           <router-link to="/"
-            ><img alt="logo" src="../../assets/logotje.png"
+            ><img alt="logo" src="/logotje.png"
           /></router-link>
         </li>
         <li>

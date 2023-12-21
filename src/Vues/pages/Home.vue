@@ -10,7 +10,7 @@ import PopulairProductsComponent from "@/Vues/components/PopulairProductsCompone
 
     <main>
       <section class="banner">
-        <img alt="Banner Image" src="../../assets/Banner.png" />
+        <img alt="Banner Image" src="/Banner.png" />
       </section>
       <div class="titel">
         <h2>Populaire cadeautjes</h2>
@@ -84,7 +84,7 @@ import PopulairProductsComponent from "@/Vues/components/PopulairProductsCompone
         <img
           id="foto-van-lise"
           alt="foto van Lise"
-          src="../../assets/fotomezelf.JPEG"
+          src="/fotomezelf.JPEG?url"
         />
       </div>
     </main>

@@ -25,7 +25,7 @@ export default {
     <HeaderComponent />
 
     <section class="banner">
-      <img alt="Banner Image" src="../../assets/DeLeuksteCadeautjes.png" />
+      <img alt="Banner Image" src="/DeLeuksteCadeautjes.png" />
     </section>
     <main>
       <div class="product-introduction">
